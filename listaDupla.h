@@ -1,6 +1,10 @@
 #ifndef LISTA_DUPLA_H
 #define LISTA_DUPLA_H
 
+
+
+
+
 typedef struct node * link;
 struct node {
   int item;
