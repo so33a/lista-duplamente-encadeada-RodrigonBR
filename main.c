@@ -3,6 +3,9 @@
 #include "listaDupla.h"
 
 
+
+
+
 int main () {
   ListaDupla l = inicializa();
   link aux, aux2;
